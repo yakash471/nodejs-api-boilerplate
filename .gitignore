@@ -1,0 +1,76 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Debugger settings
+.vscode/
+
+# OS specific files
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temp files
+tmp/
+temp/
+
+# IDE-specific settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Generated documentation
+docs/
+
+# Test-related files
+.jest/
+mochawesome-report/
+
+# Parcel cache (for frontend with bundlers)
+.cache/
+.parcel-cache/
+
+# TypeScript artifacts
+*.tsbuildinfo
+
+# PM2 process manager
+pids/
+logs/
+
+# MacOS specific files
+Thumbs.db
